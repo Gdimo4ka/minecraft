@@ -1,0 +1,19 @@
+body {
+    padding: 0;
+    margin: 0;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+header {
+    width: auto;
+    height: 125px;
+    background-color: #269926;
+}
+
+header h1 {
+    margin: 0;
+    padding: 33px 356px;
+    text-align: center;
+    font-size: 48px;
+    font-weight: normal;
+}
