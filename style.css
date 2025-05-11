@@ -17,3 +17,7 @@ header h1 {
     font-size: 48px;
     font-weight: normal;
 }
+
+main p {
+    padding: 9px 0 9px 0;
+}
